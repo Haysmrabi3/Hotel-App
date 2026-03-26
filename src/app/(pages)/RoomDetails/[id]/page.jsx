@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import React, { useState, useContext } from "react";
-import img from "@/assets/b.jpg";
 import { useParams, useRouter } from "next/navigation";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
